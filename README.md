@@ -19,8 +19,8 @@ Un proyecto del curso de Responsive Web Design de Freecodecamp. HTML y CSS Prác
 
 ### Links
 
-- URL del repositorio: [Revisa el código en mi repositorio](https://github.com/oscararroliga/campercafefcc/Intro-component-with-sign-up-form)
-- URL del sitio en producción: [Puedes ver el resultado](https://signup-form-challenge.netlify.app/)
+- URL del repositorio: [Revisa el código en mi repositorio](https://github.com/oscararroliga/campercafefcc/)
+- URL del sitio en producción: [Puedes ver el resultado](https://campercafefcc.netlify.app/)
 
 
 ### Built with
