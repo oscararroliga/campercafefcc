@@ -1,7 +1,6 @@
 
 ## Contenido
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
